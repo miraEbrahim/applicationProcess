@@ -27,3 +27,40 @@
     text-transform: uppercase;
 }
 
+.btn-reg {
+    background-color: black;
+    color: white;
+    border-radius: .5em;
+    border: 2px solid black;
+    padding: 7px;
+    font-family: 'Roboto Slab', sans-serif;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    width: 4em;
+    cursor: pointer;
+}
+
+.btn-log {
+    background-color: white;
+    color: black;
+    border-radius: .5em;
+    border: 2px solid white;
+    padding: 7px;
+    font-family: 'Roboto Slab', sans-serif;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    width: 4em;
+    cursor: pointer;
+}
+
+.fab {
+    font-size: 1.5em; color: white;
+    margin: 5px;
+    padding: 5px;
+}
+
+.fas {
+    font-size: 1.5em; color: white;
+    margin: 5px;
+    padding: 5px;
+}
